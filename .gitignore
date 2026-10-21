@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+*.nsys-rep
+*.ncu-rep
+*.sqlite
+*.engine
+*.onnx
+*.pt
+*.safetensors
+.DS_Store
